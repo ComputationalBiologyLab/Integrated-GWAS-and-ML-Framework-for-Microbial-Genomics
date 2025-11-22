@@ -7,7 +7,7 @@ Computational framework that integrates a genome-wide association study (GWAS) m
 
 **Revised By**: Dr. Eman Badr
 # Code Modules
-![image](https://github.com/user-attachments/assets/8933f2ce-c8f4-42d2-baa5-031918785e16)
+<img width="4378" height="2482" alt="Image" src="https://github.com/user-attachments/assets/31131e3c-e4bd-49ef-8a4b-dc9b7a13aa5b" />
 
 ## Genome assembly & Pre-processing
 1. Genome assembly pipeline (_genome_assembly_code.bash_ & _polishing_script.sh_)
